@@ -144,14 +144,10 @@ const Index = () => {
       {/* Hero Section */}
       <section className="bg-gradient-to-br from-blue-600 to-blue-800 text-white py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h2 className="text-5xl font-bold mb-6">
-            Профессиональная разработка
-            <br />
-            для CRMP серверов
-          </h2>
+          <h2 className="text-5xl mb-6 font-bold text-gray-50">АLVARAS CRMP</h2>
           <p className="text-xl mb-8 text-blue-100 max-w-3xl mx-auto">
-            Создаю качественные игровые сервера с уникальным функционалом. Более
-            50 успешных проектов за 5 лет работы.
+            Cоздаю CRMP проекты а также помогаю с их разработкой телеграм для
+            связи @ya_alvaras
           </p>
           <div className="flex justify-center space-x-4">
             <Button
