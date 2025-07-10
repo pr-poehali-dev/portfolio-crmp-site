@@ -375,11 +375,11 @@ const Index = () => {
               <div className="space-y-4">
                 <div className="flex items-center space-x-4">
                   <Icon name="Mail" className="h-6 w-6" />
-                  <span>crmp.developer@example.com</span>
+                  <span>alvaras.crmp@gmail.com</span>
                 </div>
                 <div className="flex items-center space-x-4">
                   <Icon name="MessageCircle" className="h-6 w-6" />
-                  <span>Telegram: @crmp_dev</span>
+                  <span>Telegram: @ya_alvaras</span>
                 </div>
                 <div className="flex items-center space-x-4">
                   <Icon name="Clock" className="h-6 w-6" />
